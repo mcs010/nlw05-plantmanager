@@ -1,13 +1,13 @@
 <div align="center">
     <img src="assets/icon.png" width="120" />    
     <h1>PlantManager</h1> 
-    <p>Projeto da Next Level Week #05, trilha React Native 🚀</p>
+    <p>Projeto da Next Level Week #05, trilha de React Native 🚀</p>
     <hr />    
     <p>
         <a href="https://rocketseat.com/"><img src="https://img.shields.io/badge/type-nlw-purple" alt="Repo Type" /></a>
         <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/language-typescript-blue" alt="Repo Main Language" /></a>
         <img src="https://img.shields.io/badge/platform-mobile-blueviolet" alt="Project Platform" />                
-        <a href="https://github.com/mcs010/nlw05-plantmanager/LICENSE"><img src="https://img.shields.io/github/license/zevdvlpr/plantmanager?color=red&label=license" alt="Repo License" /></a>
+        <a href="https://github.com/mcs010/nlw05-plantmanager/blob/master/LICENSE"><img src="https://img.shields.io/apm/l/vim-mode" alt="Repo License" /></a>
     </p>
 </div>
 
