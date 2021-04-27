@@ -13,7 +13,7 @@
 
 # Sobre
 
-Projeto desenvolvido na Next Level Week #05 da Rocketseat. O aplicativo tem o intuito de ajudar pessoas que possuem plantas à cuidá-las. Nele há informações de plantas para cada ambiente da casa, além de poder organizar o horário em que devem ser regadas, recebendo notificações.
+Projeto desenvolvido na Next Level Week #05 da Rocketseat. O aplicativo tem o intuito de ajudar pessoas que possuem plantas a cuidá-las. Nele há informações de plantas para cada ambiente da casa, além de poder organizar o horário em que devem ser regadas, recebendo notificações.
 
 <br/><br/>
 
