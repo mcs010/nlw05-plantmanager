@@ -54,9 +54,14 @@ export function UserIdentification() {
             return Alert.alert('Me diz como chamar você 😢');
 
         //Saves user name on device
-        await AsyncStorage.setItem('@plantmanager:user', name); //Awaits it till its saved - '@appName:user' avoids it to be overwritten
+        try{
+            await AsyncStorage.setItem('@plantmanager:user', name); //Awaits it till its saved - '@appName:user' avoids it to be overwritten
 
-        navigation.navigate('Confirmation');
+            navigation.navigate('Confirmation');
+        }catch{
+            return Alert.alert('Não foi possível salvar o seu nome 😢');
+        }
+
     }
 
     return (

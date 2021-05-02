@@ -14,6 +14,7 @@ import { useNavigation } from '@react-navigation/core';
 
 export function Welcome() {
 
+    //State
     const navigation = useNavigation();
 
     function handleStart(){
