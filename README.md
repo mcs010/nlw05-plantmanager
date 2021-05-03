@@ -1,7 +1,7 @@
 # EN
 
 <h1 align="center">
-  <img alt="Plant Manager" title="Plant Manager" src=".github/logo.png" />
+  <img alt="Plant Manager" title="Plant Manager" src="https://github.com/rocketseat-education/nlw-05-react-native/blob/main/.github/logo.png" />
 </h1>
 
 <p align="center">
@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="Plant Manager" src=".github/plantmanager.png" width="100%">
+  <img alt="Plant Manager" src="https://github.com/rocketseat-education/nlw-05-react-native/blob/main/.github/plantmanager.png" width="100%">
 </p>
 
 ## ✨ Technologies
@@ -48,7 +48,7 @@ This project is under MIT license. See the [LICENSE](LICENSE.md) file for more d
 # PT
 
 <h1 align="center">
-  <img alt="Plant Manager" title="Plant Manager" src=".github/logo.png" />
+  <img alt="Plant Manager" title="Plant Manager" src="https://github.com/rocketseat-education/nlw-05-react-native/blob/main/.github/logo.png" />
 </h1>
 
 <p align="center">
@@ -60,7 +60,7 @@ This project is under MIT license. See the [LICENSE](LICENSE.md) file for more d
 <br>
 
 <p align="center">
-  <img alt="Plant Manager" src=".github/plantmanager.png" width="100%">
+  <img alt="Plant Manager" src="https://github.com/rocketseat-education/nlw-05-react-native/blob/main/.github/plantmanager.png" width="100%">
 </p>
 
 ## ✨ Tecnologias
