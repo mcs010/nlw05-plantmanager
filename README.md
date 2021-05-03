@@ -29,7 +29,7 @@ Projeto desenvolvido na Next Level Week #05 da Rocketseat. O aplicativo tem o in
 - Run `npm install --global expo-cli` ou `yarn install --global expo-cli`
 - Run `expo start`
 - Abra o Expo no seu dispositivo ou emulador
-- Escaneie o QR code
+- Escaneie o QR code ou digite a URL
 
 # Licença
 
