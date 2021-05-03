@@ -41,9 +41,10 @@ You can view the project layout through [this link](https://www.figma.com/file/I
 
 ## 📄 License
 
-This project is under MIT license. See the [LICENSE](LICENSE.md) file for more details.
+This project is under MIT license. See the [LICENSE](LICENSE) file for more details.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
+
 
 # PT
 
@@ -88,4 +89,4 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ## 📄 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
